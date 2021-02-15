@@ -1,5 +1,5 @@
-//* Vytvorenie provyzorneho vzhladu aplikacie/frontend 
-Vytvorit databazu
-Premigrovat data zo zadania do svojej databaze
-Doplnit funkcionalitu aplikacie/backend
-*//
+1.Vytvorenie provyzorneho vzhladu aplikacie/frontend                                                                                                                            
+2.Vytvorit databazu                                                                                                                                                               
+3.Premigrovat data zo zadania do svojej databaze                                                                                                                                  
+4.Doplnit funkcionalitu aplikacie/backend
+
